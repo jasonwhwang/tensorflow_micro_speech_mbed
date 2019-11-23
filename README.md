@@ -11,6 +11,7 @@ audio_provider.cpp
 
 ### Dev Board
 NUCLEO-F429ZI with Mbed OS 5 - https://os.mbed.com/platforms/ST-Nucleo-F429ZI/
+Adafruit MAX9814 Microphone - https://learn.adafruit.com/adafruit-agc-electret-microphone-amplifier-max9814/overview
 
 ### Mbed OS 5 Docs
 https://os.mbed.com/docs/mbed-os/v5.14/apis/index.html
